@@ -1,4 +1,10 @@
-<?php
+/**
+ * تعديل بواسطة الطالب
+ * جزء إدارة الكتب - Backend Laravel
+ */
+هذه الدالة مسؤولة عن جلب قائمة الكتب
+
+<?php 
 
 namespace App\Http\Controllers\Api;
 
