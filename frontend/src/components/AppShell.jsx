@@ -1,3 +1,11 @@
+
+/**
+ * تعديل بواسطة الطالب
+ * مكون عرض قائمة الكتب - Frontend React
+ */
+// هزا المكون مسؤول عن عرض الكتب المتاحة للحجز
+
+
 import React, { useMemo, useState } from 'react'
 import { Link as RouterLink, useLocation } from 'react-router-dom'
 import {
